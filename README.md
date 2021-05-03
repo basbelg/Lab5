@@ -2,7 +2,7 @@
 
 ## Author(s):
 - WenTian
-- 
+- Bas Beeuwsaert
 
 ## Part 1:
 
