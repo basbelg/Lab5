@@ -10,4 +10,4 @@ https://wen-tian-pineapple.github.io/Lab5/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/Wen-Tian-Pineapple/github-actions-for-ci/issues/8
